@@ -1,2 +1,2 @@
-b
+b is second file.
 
